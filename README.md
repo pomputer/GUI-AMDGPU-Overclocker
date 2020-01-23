@@ -2,6 +2,9 @@
 A Simple, Easy to Use, Open Source GUI overclocking utility for AMDGPU on Linux.
 Licensed under GPL-3.0
 
+Always start with 1% and increase slowly until you hit instability. Once you hit that, reboot and set a lower value.
+
+
 Dependencies:
 	python3,
 	python3-tk (or similar depending on distribution)
