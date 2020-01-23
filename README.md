@@ -9,7 +9,7 @@ How to use:
 
 	Install all dependencies stated above.
 	Run amdgpuoc.py as root. You can do this by running: sudo ./amdgpuoc.py in the directory you have saved it to.
-		In case the script fails to run even when all dependencies are installed, try running chmod a+x amdgpuoc.py
+		In case the script fails to run even when all dependencies are installed, try running chmod a+x amdgpuoc.py and trying again
 	You should now be able to input a percentage for overclocking and click submit.
 
 To Do in the future:
