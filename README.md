@@ -16,6 +16,8 @@ Run amdgpuoc.py as root. You can do this by running:
 
 	sudo ./amdgpuoc.py
 You should now be able to input a percentage for overclocking and click submit.
+
+
 To Do in the future:
 
 Make this be able to do the overclocking automatically on boot-up without requiring you to enter the values again.
