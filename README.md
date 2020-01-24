@@ -25,6 +25,8 @@ To Do in the future:
 
 Make this be able to do the overclocking automatically on boot-up without requiring you to enter the values again.
 
+Add a command line version.
+
 Create a .desktop file for easy running.
 
 Happy Overclocking!
